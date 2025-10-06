@@ -1,0 +1,11 @@
+# Node dependencies
+node_modules/
+# Environment variables (DB credentials, JWT secret)
+.env
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+#Personal notes
+Notes.txt
